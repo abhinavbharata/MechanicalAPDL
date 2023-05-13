@@ -1,0 +1,17 @@
+/COM,ANSYS RELEASE 2023 R1           BUILD 23.1      UP20221128       18:40:03
+/COM,ANSYS RELEASE 2023 R1           BUILD 23.1      UP20221128       10:44:05
+
+ *** WARNING ***                         CP =       5.703   TIME= 11:04:59
+ Keypoint modify resulted in the clearing of 2 keypoint(s), 1 line(s), 0 
+ area(s), and 0 volume(s).                                               
+
+ *** WARNING ***                         CP =       7.328   TIME= 11:06:13
+ Keypoint modify resulted in the clearing of 2 keypoint(s), 1 line(s), 0 
+ area(s), and 0 volume(s).                                               
+
+ *** ERROR ***                           CP =       8.312   TIME= 11:06:42
+ Keypoint 2 belongs to 1 line(s) and cannot be altered.                  
+
+ *** ERROR ***                           CP =       8.734   TIME= 11:07:12
+ Keypoint 2 belongs to 1 line(s) and cannot be altered.                  
+/COM,ANSYS RELEASE 2023 R1           BUILD 23.1      UP20221128       11:15:18

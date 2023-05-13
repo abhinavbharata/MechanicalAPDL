@@ -1,0 +1,17 @@
+# encoding: utf-8
+# 2023 R1
+SetScriptVersion(Version="23.1.153")
+template1 = GetTemplate(TemplateName="Mechanical APDL")
+system1 = GetSystem(Name="APDL 1")
+system2 = template1.CreateSystem(
+    Position="Right",
+    RelativeTo=system1)
+system2.DisplayText = "Prestress"
+setupComponent1 = system2.GetComponent(Name="Setup")
+setupComponent1.Refresh()
+setup1 = system2.GetContainer(ComponentName="Setup")
+setup1.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup1.Exit()
+Save(Overwrite=True)

@@ -1,0 +1,130 @@
+# encoding: utf-8
+# 2023 R1
+SetScriptVersion(Version="23.1.153")
+system1 = GetSystem(Name="APDL")
+setupComponent1 = system1.GetComponent(Name="Setup")
+setupComponent1.Refresh()
+setup1 = system1.GetContainer(ComponentName="Setup")
+setup1.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup1.Exit()
+Save(Overwrite=True)
+template1 = GetTemplate(TemplateName="Mechanical APDL")
+system2 = GetSystem(Name="APDL 2")
+system3 = template1.CreateSystem(
+    Position="Right",
+    RelativeTo=system2)
+system3.DisplayText = "MultiLinks"
+setupComponent2 = system3.GetComponent(Name="Setup")
+setupComponent2.Refresh()
+setup2 = system3.GetContainer(ComponentName="Setup")
+setup2.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup2.Exit()
+setupComponent2.Reset()
+setupComponent2.Reset()
+setupComponent2.Refresh()
+setup2.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup2.Exit()
+setupComponent1.Refresh()
+setup1.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup1.Exit()
+setupComponent2.Refresh()
+setup2.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup2.Exit()
+setupComponent2.Reset()
+setupComponent2.Refresh()
+setup2.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup2.Exit()
+setupComponent2.Reset()
+setupComponent2.Refresh()
+setup2.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup2.Exit()
+system4 = template1.CreateSystem(
+    Position="Right",
+    RelativeTo=system3)
+system4.DisplayText = "MultiLinkswithElements"
+setupComponent3 = system4.GetComponent(Name="Setup")
+setupComponent3.Refresh()
+setup3 = system4.GetContainer(ComponentName="Setup")
+setup3.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup3.Exit()
+setupComponent3.Reset()
+setupComponent3.Refresh()
+setup3.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup3.Exit()
+setupComponent3.Reset()
+setupComponent3.Refresh()
+setup3.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup3.Exit()
+setupComponent3.Reset()
+setupComponent3.Refresh()
+setup3.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup3.Exit()
+setupComponent3.Reset()
+setupComponent3.Refresh()
+setup3.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup3.Exit()
+setupComponent3.Reset()
+setupComponent3.Refresh()
+setup3.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup3.Exit()
+setupComponent3.Reset()
+setupComponent3.Refresh()
+setup3.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup3.Exit()
+setupComponent3.Refresh()
+setup3.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup3.Exit()
+setupComponent3.Reset()
+setupComponent3.Refresh()
+setup3.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup3.Exit()
+setupComponent3.Reset()
+setup3.Edit(
+    Interactive=True,
+    LoadInputFiles=False)
+setup3.Exit()
+setupComponent3.Reset()
+setupComponent3.Refresh()
+setup3.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup3.Exit()
+setupComponent3.Reset()
+setupComponent3.Refresh()
+setup3.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup3.Exit()
+Save(Overwrite=True)

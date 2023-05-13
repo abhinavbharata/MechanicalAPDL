@@ -1,0 +1,88 @@
+# encoding: utf-8
+# 2023 R1
+SetScriptVersion(Version="23.1.153")
+system1 = GetSystem(Name="APDL")
+setupComponent1 = system1.GetComponent(Name="Setup")
+setupComponent1.Refresh()
+setup1 = system1.GetContainer(ComponentName="Setup")
+setup1.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup1.Exit()
+setupComponent1.Refresh()
+setup1.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup1.Exit()
+system2 = GetSystem(Name="APDL 1")
+setupComponent2 = system2.GetComponent(Name="Setup")
+setupComponent2.Refresh()
+setup2 = system2.GetContainer(ComponentName="Setup")
+setup2.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup2.Exit()
+setupComponent1.Refresh()
+setup1.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup1.Exit()
+template1 = GetTemplate(TemplateName="Mechanical APDL")
+system3 = template1.CreateSystem()
+system3.DisplayText = "3rd Analysis"
+setupComponent3 = system3.GetComponent(Name="Setup")
+setupComponent3.Refresh()
+setup3 = system3.GetContainer(ComponentName="Setup")
+setup3.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup3.Exit()
+setupComponent3.Refresh()
+setup3.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup3.Exit()
+system3.Delete()
+system4 = template1.CreateSystem(
+    Position="Right",
+    RelativeTo=system2)
+setupComponent4 = system4.GetComponent(Name="Setup")
+setupComponent4.Refresh()
+setup4 = system4.GetContainer(ComponentName="Setup")
+setup4.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup4.Exit()
+system4.DisplayText = "3rd analysis"
+setupComponent1.Refresh()
+setup1.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup1.Exit()
+setupComponent4.Refresh()
+setup4.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup4.Exit()
+setupComponent4.Reset()
+setupComponent4.Refresh()
+setup4.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup4.Exit()
+setupComponent1.Refresh()
+setup1.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup1.Exit()
+setupComponent4.Refresh()
+setup4.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup4.Exit()
+setupComponent4.Refresh()
+setup4.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup4.Exit()
+Save(Overwrite=True)

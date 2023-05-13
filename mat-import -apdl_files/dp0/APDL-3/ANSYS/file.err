@@ -1,0 +1,50 @@
+/COM,ANSYS RELEASE 2023 R1           BUILD 23.1      UP20221128       13:24:26
+
+ *** WARNING ***                         CP =       2.516   TIME= 13:24:40
+ No constraints have been defined using the D command.                   
+
+ *** ERROR ***                           CP =       2.609   TIME= 13:24:40
+ There is at least 1 small equation solver pivot term (e.g., at the UY   
+ degree of freedom of node 4).  Please check for an insufficiently       
+ constrained model.                                                      
+
+ *** WARNING ***                         CP =       2.656   TIME= 13:24:40
+ The degree of freedom solution is not available.  The PLDISP command is 
+ ignored.                                                                
+
+ *** WARNING ***                         CP =       5.719   TIME= 13:26:34
+ There are no selected unmeshed lines.  The LATT command is ignored.     
+
+ *** WARNING ***                         CP =       6.141   TIME= 13:27:07
+ There are no selected unmeshed lines.  The LATT command is ignored.     
+
+ *** WARNING ***                         CP =       6.781   TIME= 13:28:14
+ All of the selected lines in the set named on the LMESH command were    
+ already meshed.  Clear associated elements before remeshing.            
+
+ *** ERROR ***                           CP =       8.375   TIME= 13:29:11
+ There is at least 1 small equation solver pivot term (e.g., at the UZ   
+ degree of freedom of node 4).  Please check for an insufficiently       
+ constrained model.                                                      
+
+ *** WARNING ***                         CP =       9.844   TIME= 13:29:55
+ The program chosen initial timestep/load-factor is arbitrary.  It is    
+ necessary for the user to supply a suitable initial                     
+ timestep/load-factor through the NSUB or DELTIM command for             
+ convergence and overall efficiency.                                     
+
+ *** ERROR ***                           CP =      18.328   TIME= 13:33:37
+ There are 24 small equation solver pivot terms (e.g., at the UZ degree  
+ of freedom of node 31).  Please check for an insufficiently             
+ constrained model.                                                      
+
+ *** WARNING ***                         CP =      23.828   TIME= 13:37:37
+ The program chosen initial timestep/load-factor is arbitrary.  It is    
+ necessary for the user to supply a suitable initial                     
+ timestep/load-factor through the NSUB or DELTIM command for             
+ convergence and overall efficiency.                                     
+
+ *** ERROR ***                           CP =      24.344   TIME= 13:37:42
+ There are 24 small equation solver pivot terms (e.g., at the UZ degree  
+ of freedom of node 31).  Please check for an insufficiently             
+ constrained model.                                                      

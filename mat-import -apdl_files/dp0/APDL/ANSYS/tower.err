@@ -1,0 +1,79 @@
+/COM,ANSYS RELEASE 2023 R1           BUILD 23.1      UP20221128       17:28:47
+/COM,ANSYS RELEASE 2023 R1           BUILD 23.1      UP20221128       15:10:30
+/COM,ANSYS RELEASE 2023 R1           BUILD 23.1      UP20221128       17:56:14
+
+ *** WARNING ***                         CP =      11.344   TIME= 18:05:17
+ No data is available for the selected model or data location            
+ specifications.                                                         
+
+ *** WARNING ***                         CP =      11.391   TIME= 18:05:17
+ No data is available for the selected model or data location            
+ specifications.                                                         
+
+ *** WARNING ***                         CP =      11.781   TIME= 18:05:27
+ No data is available for the selected model or data location            
+ specifications.                                                         
+
+ *** WARNING ***                         CP =      11.797   TIME= 18:05:27
+ No data is available for the selected model or data location            
+ specifications.                                                         
+
+ *** WARNING ***                         CP =      13.641   TIME= 18:07:23
+ The requested EPPL data is not available.  The PLNSOL command is        
+ ignored.                                                                
+
+ *** WARNING ***                         CP =      18.281   TIME= 18:14:53
+ No interpolation points lie on or near the selected elements.  The PDEF 
+ operation produced no results.                                          
+
+ *** WARNING ***                         CP =      18.297   TIME= 18:14:53
+ The requested data is not available for any path points.                
+
+ *** WARNING ***                         CP =      18.422   TIME= 18:15:02
+ No interpolation points lie on or near the selected elements.  The PDEF 
+ operation produced no results.                                          
+
+ *** WARNING ***                         CP =      18.500   TIME= 18:15:02
+ The requested data is not available for any path points.                
+
+ *** WARNING ***                         CP =      18.625   TIME= 18:15:07
+ No interpolation points lie on or near the selected elements.  The PDEF 
+ operation produced no results.                                          
+
+ *** WARNING ***                         CP =      18.672   TIME= 18:15:08
+ The requested data is not available for any path points.                
+
+ *** WARNING ***                         CP =      18.859   TIME= 18:15:19
+ No interpolation points lie on or near the selected elements.  The PDEF 
+ operation produced no results.                                          
+
+ *** WARNING ***                         CP =      18.906   TIME= 18:15:19
+ The requested data is not available for any path points.                
+
+ *** WARNING ***                         CP =      19.000   TIME= 18:15:21
+ No interpolation points lie on or near the selected elements.  The PDEF 
+ operation produced no results.                                          
+
+ *** WARNING ***                         CP =      19.031   TIME= 18:15:21
+ The requested data is not available for any path points.                
+/COM,ANSYS RELEASE 2023 R1           BUILD 23.1      UP20221128       10:14:01
+/COM,ANSYS RELEASE 2023 R1           BUILD 23.1      UP20221128       10:31:37
+
+ *** WARNING ***                         CP =      18.109   TIME= 11:39:26
+ The requested section 1 is not a BEAM and can not be displayed in the   
+ BeamTool.                                                               
+/COM,ANSYS RELEASE 2023 R1           BUILD 23.1      UP20221128       13:18:59
+
+ *** WARNING ***                         CP =      12.078   TIME= 13:32:44
+ The requested section 1 is not a BEAM and can not be displayed in the   
+ BeamTool.                                                               
+/COM,ANSYS RELEASE 2023 R1           BUILD 23.1      UP20221128       16:17:55
+/COM,ANSYS RELEASE 2023 R1           BUILD 23.1      UP20221128       11:49:40
+
+ *** WARNING ***                         CP =       8.938   TIME= 11:57:36
+ /PRESTRE is not a recognized PREP7 command, abbreviation, or macro.     
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =       9.656   TIME= 11:59:00
+ No areas defined.                                                       
+/COM,ANSYS RELEASE 2023 R1           BUILD 23.1      UP20221128       13:08:21

@@ -1,0 +1,122 @@
+/COM,ANSYS RELEASE 2023 R1           BUILD 23.1      UP20221128       12:24:59
+/COM,ANSYS RELEASE 2023 R1           BUILD 23.1      UP20221128       13:36:06
+
+ *** WARNING ***                         CP =      19.625   TIME= 13:56:19
+ Constraints on unmeshed keypoint 1 are not transferred.                 
+
+ *** WARNING ***                         CP =      19.641   TIME= 13:56:19
+ Constraints on unmeshed keypoint 2 are not transferred.                 
+
+ *** WARNING ***                         CP =      19.641   TIME= 13:56:19
+ Constraints on unmeshed keypoint 3 are not transferred.                 
+
+ *** WARNING ***                         CP =      19.641   TIME= 13:56:19
+ Forces on unmeshed keypoint 4 are not transferred.                      
+
+ *** WARNING ***                         CP =      19.641   TIME= 13:56:19
+ Forces on unmeshed keypoint 5 are not transferred.                      
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      19.641   TIME= 13:56:19
+ Forces on unmeshed keypoint 6 are not transferred.                      
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =      19.641   TIME= 13:56:19
+ There are no nodes defined.                                             
+
+ *** ERROR ***                           CP =      19.906   TIME= 13:56:26
+ There are no nodes defined.                                             
+/COM,ANSYS RELEASE 2023 R1           BUILD 23.1      UP20221128       22:26:55
+/COM,ANSYS RELEASE 2023 R1           BUILD 23.1      UP20221128       17:55:27
+
+ *** WARNING ***                         CP =      18.797   TIME= 18:12:10
+ Constraints on unmeshed keypoint 1 are not transferred.                 
+
+ *** WARNING ***                         CP =      18.797   TIME= 18:12:10
+ Constraints on unmeshed keypoint 2 are not transferred.                 
+
+ *** WARNING ***                         CP =      18.797   TIME= 18:12:10
+ Constraints on unmeshed keypoint 3 are not transferred.                 
+
+ *** WARNING ***                         CP =      18.797   TIME= 18:12:10
+ Forces on unmeshed keypoint 4 are not transferred.                      
+
+ *** WARNING ***                         CP =      18.797   TIME= 18:12:10
+ Forces on unmeshed keypoint 5 are not transferred.                      
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      18.797   TIME= 18:12:10
+ Forces on unmeshed keypoint 6 are not transferred.                      
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =      18.797   TIME= 18:12:10
+ There are no nodes defined.                                             
+
+ *** ERROR ***                           CP =      19.000   TIME= 18:12:23
+ There are no nodes defined.                                             
+
+ *** WARNING ***                         CP =      21.438   TIME= 18:15:54
+ Invalid UNITS Label.  Valid units are:                                  
+  USER SI CGS BFT BIN MKS MPA and UMKS.                                  
+
+ *** ERROR ***                           CP =      23.047   TIME= 18:19:31
+ This function requires selected keypoints.                              
+  No keypoints are currently selected.                                   
+
+ *** ERROR ***                           CP =      23.188   TIME= 18:19:36
+ This function requires selected keypoints.                              
+  No keypoints are currently selected.                                   
+
+ *** ERROR ***                           CP =      24.484   TIME= 18:21:47
+ A Favorite cannot be created for material 1.  No properties are         
+ defined.                                                                
+
+ *** ERROR ***                           CP =      27.375   TIME= 18:25:49
+ This function requires selected keypoints.                              
+  No keypoints are currently selected.                                   
+
+ *** ERROR ***                           CP =      28.328   TIME= 18:27:02
+ This function requires selected keypoints.                              
+  No keypoints are currently selected.                                   
+
+ *** ERROR ***                           CP =      49.328   TIME= 18:47:03
+ There are no elements defined.                                          
+
+ *** ERROR ***                           CP =      49.516   TIME= 18:47:10
+ The model data was checked and there were errors found.                 
+  Please check output or errors file ( D:\Fall                           
+ Sem\Tense-apdl\mat-import -apdl_files\dp0\APDL-2\ANSYS\file.err ) for   
+ messages.                                                               
+
+ *** WARNING ***                         CP =      51.578   TIME= 18:48:16
+ Constraints on unmeshed keypoint 1 are not transferred.                 
+
+ *** WARNING ***                         CP =      51.578   TIME= 18:48:16
+ Constraints on unmeshed keypoint 2 are not transferred.                 
+
+ *** WARNING ***                         CP =      51.578   TIME= 18:48:16
+ Constraints on unmeshed keypoint 3 are not transferred.                 
+
+ *** WARNING ***                         CP =      51.578   TIME= 18:48:16
+ Forces on unmeshed keypoint 4 are not transferred.                      
+
+ *** WARNING ***                         CP =      51.578   TIME= 18:48:16
+ Forces on unmeshed keypoint 5 are not transferred.                      
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      51.578   TIME= 18:48:16
+ Forces on unmeshed keypoint 6 are not transferred.                      
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =      51.578   TIME= 18:48:16
+ There are no elements defined.                                          
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =      51.578   TIME= 18:48:16
+ The model data was checked and there were errors found.                 
+  Please check output or errors file ( D:\Fall                           
+ Sem\Tense-apdl\mat-import -apdl_files\dp0\APDL-2\ANSYS\file.err ) for   
+ messages.                                                               
+
+ *** ERROR ***                           CP =      51.703   TIME= 18:48:20
+ There are no elements defined.                                          
+
+ *** ERROR ***                           CP =      51.859   TIME= 18:48:22
+ The model data was checked and there were errors found.                 
+  Please check output or errors file ( D:\Fall                           
+ Sem\Tense-apdl\mat-import -apdl_files\dp0\APDL-2\ANSYS\file.err ) for   
+ messages.                                                               
+/COM,ANSYS RELEASE 2023 R1           BUILD 23.1      UP20221128       16:42:14

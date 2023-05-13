@@ -1,0 +1,69 @@
+/COM,ANSYS RELEASE 2023 R1           BUILD 23.1      UP20221128       14:28:18
+
+ *** WARNING ***                         CP =       2.594   TIME= 14:29:12
+ The INISTATE command is not available for element type 0.               
+
+ *** WARNING ***                         CP =       2.734   TIME= 14:29:13
+ The INISTATE command is not available for element type 0.               
+
+ *** WARNING ***                         CP =       2.797   TIME= 14:29:13
+ The INISTATE command is not available for element type 0.               
+
+ *** WARNING ***                         CP =       2.828   TIME= 14:29:13
+ The INISTATE command is not available for element type 0.               
+
+ *** WARNING ***                         CP =       2.828   TIME= 14:29:13
+ The INISTATE command is not available for element type 0.               
+
+ *** WARNING ***                         CP =       2.875   TIME= 14:29:13
+ The INISTATE command is not available for element type 0.               
+
+ *** WARNING ***                         CP =       2.906   TIME= 14:29:13
+ The INISTATE command is not available for element type 0.               
+
+ *** WARNING ***                         CP =       2.969   TIME= 14:29:13
+ The INISTATE command is not available for element type 0.               
+
+ *** WARNING ***                         CP =       2.984   TIME= 14:29:13
+ The INISTATE command is not available for element type 0.               
+
+ *** WARNING ***                         CP =       3.047   TIME= 14:29:14
+ Constraints on unmeshed keypoint 1 are not transferred.                 
+
+ *** WARNING ***                         CP =       3.047   TIME= 14:29:14
+ Constraints on unmeshed keypoint 2 are not transferred.                 
+
+ *** WARNING ***                         CP =       3.047   TIME= 14:29:14
+ Constraints on unmeshed keypoint 3 are not transferred.                 
+
+ *** ERROR ***                           CP =       3.047   TIME= 14:29:14
+ There are no nodes defined.                                             
+
+ *** WARNING ***                         CP =       3.469   TIME= 14:29:18
+ The degree of freedom solution is not available.  The PLDISP command is 
+ ignored.                                                                
+
+ *** WARNING ***                         CP =      15.250   TIME= 14:37:13
+ There are no selected unmeshed lines.  The LATT command is ignored.     
+
+ *** WARNING ***                         CP =      15.484   TIME= 14:37:40
+ There are no selected unmeshed lines.  The LATT command is ignored.     
+
+ *** WARNING ***                         CP =      15.672   TIME= 14:37:55
+ There are no selected unmeshed lines.  The LATT command is ignored.     
+
+ *** WARNING ***                         CP =      16.109   TIME= 14:38:24
+ There are no selected unmeshed lines.  The LATT command is ignored.     
+
+ *** WARNING ***                         CP =      16.469   TIME= 14:38:39
+ There are no selected unmeshed lines.  The LATT command is ignored.     
+
+ *** WARNING ***                         CP =      16.641   TIME= 14:38:45
+ There are no selected unmeshed lines.  The LATT command is ignored.     
+
+ *** WARNING ***                         CP =      16.844   TIME= 14:38:57
+ There are no selected unmeshed lines.  The LATT command is ignored.     
+
+ *** WARNING ***                         CP =      17.625   TIME= 14:39:27
+ All of the selected lines in the set named on the LMESH command were    
+ already meshed.  Clear associated elements before remeshing.            

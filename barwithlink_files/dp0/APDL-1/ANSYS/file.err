@@ -1,0 +1,20 @@
+/COM,ANSYS RELEASE 2023 R1           BUILD 23.1      UP20221128       20:00:49
+
+ *** ERROR ***                           CP =      10.594   TIME= 20:26:13
+ Line 4 is meshed and can not be changed.                                
+
+ *** ERROR ***                           CP =      10.641   TIME= 20:26:16
+ Line 5 is meshed and can not be changed.                                
+
+ *** ERROR ***                           CP =      10.672   TIME= 20:26:18
+ Line 6 is meshed and can not be changed.                                
+
+ *** ERROR ***                           CP =      12.250   TIME= 20:29:44
+ Node 3 is attached to LINE 1 and cannot be altered.                     
+
+ *** ERROR ***                           CP =      12.297   TIME= 20:30:05
+ Node 3 is attached to LINE 1 and cannot be altered.                     
+/COM,ANSYS RELEASE 2023 R1           BUILD 23.1      UP20221128       08:45:52
+
+ *** ERROR ***                           CP =       3.422   TIME= 08:51:28
+ Data file file.db does not exist for RESUME.                            
